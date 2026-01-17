@@ -35,7 +35,7 @@ category (VARCHAR(50))
 ## How to Run the Project
 
 1. Clone the repository:
-git clone https://github.com/your-username/smart-expense-tracker.git
+git clone https://github.com/Manojkumar-mysore/smart-expense-tracker.git
 
 2. Install dependency:
 pip install pymysql
